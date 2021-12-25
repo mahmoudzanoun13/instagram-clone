@@ -1,0 +1,16 @@
+.App {
+  background-color: #fafafa;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  object-fit: contain;
+  padding: 20px;
+}
+
+.App-header {
+  flex: 1;
+}
+
