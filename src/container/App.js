@@ -51,7 +51,7 @@ function App() {
             style={{ opacity: '60%', textAlign: 'center' }}
           >
             <strong>
-              Sorry, you need to login to upload(if this is first time, logout and signin again).
+              Sorry, you need to login to upload(note:after you create an account you have to logout and signin again to upload your first post).
             </strong>
           </h3>
         )
